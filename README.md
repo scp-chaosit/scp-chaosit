@@ -1,8 +1,6 @@
-Hello... I don't want to talk to much, but... If you want to talk to me:
+# Hello
+### I'm ordinary, starting programmer. I want to support open-source projects, because I'm using Arch Linux, and I don't like proprietary soft.
 
-- Telegram: @ChaositWithFriends
-- Discrod: scp_chaosit
-<!---
-scp-chaosit/scp-chaosit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I alse want to say, if you want to contact with me, you can use:
+- Discord: scp_chaosit
+- Telegram: ChaositWithFriends
