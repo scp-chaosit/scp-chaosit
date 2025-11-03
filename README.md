@@ -20,4 +20,4 @@
 ___________________________________________________________________________________________
 By the way, if you want to contact with me, you can use:
 - Discord: scp_chaosit
-- Telegram: ChaositWithFriends
+- Telegram: t.me/YuuBestFriend
